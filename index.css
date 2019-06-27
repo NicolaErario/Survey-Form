@@ -1,0 +1,21 @@
+#title {
+    text-align: center;
+    color: #dfe22b;
+}
+
+#description {
+    text-align: center;
+    color: #dfe22b;
+}
+
+body {
+    background-color: blueviolet;  
+}
+
+label {
+    color: #dfe22b;
+}
+
+form {
+    padding: 30px;
+}
